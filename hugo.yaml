@@ -1,0 +1,45 @@
+baseURL: "https://blog.atanusroy.com/"
+languageCode: "en-us"
+title: "Atanu's Blog"
+theme: "pehtheme-hugo"
+
+pagination:
+  paperSize: 6 # <- Set the desired number of posts per page
+
+summaryLength: 20 # <- 20 words are approximately 160 characters
+
+googleAnalytics: "G-GTYKQ8582Z" # <- Your GA-4
+disqusShortname: "atanuroy911" # <- Get form here : https://disqus.com
+
+params:
+  description: "Explore Atanu's Blog: A journey through coding tutorials, personal projects, life philosophy, and growth stories. Learn, connect, and get inspired!"
+  mainSections: "posts"
+
+  author:
+    name: "Atanu Shuvam Roy"
+    bio: "I am Atanu Shuvam Roy and I have recently graduated from the Department of Computer Science and Engineering (CSE) at the Indian Institute of Technology, Kanpur (IITK) with a masters degree."
+    avatar: "/images/profile-sm.png"
+    twitter: "https://twitter.com/atanuroy911"
+
+menu: # Menu management
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 10
+    - name: "About"
+      pageRef: "/about"
+      weight: 15
+    - name: "Tags"
+      pageRef: "/tags"
+      weight: 20
+    - name: "Taxonomy"
+      pageRef: "/tags/space/"
+      weight: 25
+
+module:
+  hugoVersion:
+    extended: false
+    min: "0.116.0"
+  mounts: # Directing the static folder to assets.
+    source: "assets"
+    target: "static"

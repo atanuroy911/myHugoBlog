@@ -553,3 +553,11 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.grow {
+  flex-grow: 1;
+}
+
+.open {
+  display: block;
+}

@@ -1,42 +1,38 @@
 ---
 title: "About"
 date: 2023-10-06T20:37:29+07:00
-image: images/nadine-shaabana-ZPP-zP8HYG0-unsplash.jpg
+image: images/atanu-shuvam-roy.jpg
 draft: false
 ---
 
-**Pehtheme Hugo** is your gateway to the mysteries and wonders of the universe. We are a passionate community of space enthusiasts, scientists, and stargazers dedicated to sharing the awe-inspiring beauty and profound knowledge of the cosmos.
+Hey, I am **Atanu**. This is a personal space where I am thinking about sharing my insights on life, stories from every challenge I have faced or will face, and lessons from various facets of my life. Not, just that, I will also post different sections from coding and tutorials about various technologies. From philosophy to projects, this blog is a reflection of my journey and the experiences that is me.
 
-At **Pehtheme Hugo**, we believe that space exploration is not just a scientific endeavor; it's a human adventure. It's about the curiosity that drives us to look up at the night sky and wonder about the galaxies, stars, and planets that fill our universe.
+## About Me
 
-## Our Mission
+I am **Atanu Shuvam Roy** and I have recently graduated from the Department of Computer Science and Engineering (CSE) at the Indian Institute of Technology, Kanpur (IITK) with a masters degree. I obtained my Bachelor degree in Computer Science and Engineering from the Jiangxi University of Science and Technology 【江西理工大学】 in Jan 2022 where I was part of the **Robotics and Automation Research Lab (RARL)**. Currently I am working at a company named Backend Ace as a contractual Backend Developer and also remotely supporting my UG Lab RARL. For more details, please search my name on google to check out my google scholar and researchgate profile for my research background. My developer portfolio is currently under construction. I shall update once done.
 
-Our mission is to inspire, educate, and spark curiosity about space and astronomy. We aim to make the wonders of the cosmos accessible to everyone, from seasoned astronomers to those taking their first steps into the world of stargazing.
+My current research interests include: (1) Embedded Systems, (2) Internet of Things (IoT), (3) Sensor Systems and (4) Human Computer Interaction.
 
-Through a diverse range of articles, videos, images, and interactive tools, we strive to:
+## What I Share Here
 
-- **Educate**: We provide well-researched, informative content that explains complex astronomical concepts in an accessible way.
+This blog covers a wide range of topics that resonate with my interests and experiences:
 
-- **Inspire**: We share the breathtaking beauty of the universe through stunning images and stories of space exploration.
+- **Coding Tutorials**: Practical and beginner-friendly guides to help you sharpen your programming skills and explore new technologies.
+- **Personal Projects**: Updates and deep dives into the projects I am working on, showcasing my learning process and problem-solving approaches.
+- **Philosophy and Life**: Reflections on life, thoughts on philosophy, and lessons learned from everyday experiences.
+- **Journey and Growth**: Stories from my personal and professional journey, highlighting milestones, challenges, and growth along the way.
 
-- **Connect**: We foster a vibrant community where space enthusiasts can share their passion, ask questions, and learn from each other.
+## My Mission
 
-## What You'll Find Here
+Through this blog, I aim to:
 
-- **Astronomy Insights**: Dive deep into the universe with articles and guides that cover everything from the basics of stargazing to the latest discoveries in astrophysics.
+- **Educate**: Share knowledge in an accessible and engaging way to help others grow and learn.
+- **Inspire**: Motivate readers with stories of perseverance, curiosity, and creativity.
+- **Connect**: Build a community of like-minded individuals who are eager to share, learn, and grow together.
 
-- **Stunning Visuals**: Explore our gallery of celestial images captured by professional astronomers and space agencies, as well as astrophotography from our community members.
+## Join the Conversation
 
-- **Space Exploration Updates**: Stay informed about upcoming space missions, rocket launches, and groundbreaking discoveries in our ever-expanding cosmos.
+I invite you to be part of this journey. Share your thoughts, ask questions, and engage with the content. This blog is not just about me—it’s a space for connection, collaboration, and mutual growth.
 
-- **Interactive Tools**: Use our interactive sky maps and tools to plan your stargazing sessions and track celestial events.
+Let’s explore, learn, and grow together. Welcome to my blog which I will simply call: **Atanu's Blog**—a place where life, coding, and creativity converge.
 
-## Our Team
-
-We are a dedicated team of space enthusiasts, writers, astronomers, and scientists who are passionate about sharing the wonders of the universe. Our combined expertise in space science, astrophotography, and science communication allows us to bring you the best of the cosmos.
-
-## Join Our Cosmic Community
-
-We invite you to join us on this cosmic journey. Explore the depths of space with us, ask questions, share your own astronomical experiences, and become part of a community that looks to the stars with wonder and curiosity.
-
-Let's embark on this celestial adventure together. Welcome to **My Space Theme**—where the universe unfolds before your eyes.
