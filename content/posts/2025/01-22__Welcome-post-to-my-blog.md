@@ -9,10 +9,9 @@ draft: false
 categories:
   - personal
 tags:
+  - personal
   - feature
-  - introduction
-  - welcome
-  - blog
+  - travel
 ---
 
 Welcome to my blog! I'm Atanu Shuvam Roy, a passionate Web and Mobile App developer from Bangladesh 🇧🇩, recently graduated my Master of Technology in Computer Science and Engineering from the Indian Institute of Technology, Kanpur. 
