@@ -11,21 +11,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/tags/css/</loc>
@@ -86,6 +78,24 @@
                 href="http://localhost:1313/pt/tags/markdown/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -108,6 +118,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/series/"
                 />
@@ -124,6 +139,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/tags/"
                 />
@@ -133,18 +153,5 @@
   </url><url>
     <loc>http://localhost:1313/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/about/"
-                />
   </url>
 </urlset>

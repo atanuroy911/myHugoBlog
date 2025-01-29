@@ -1,11 +1,11 @@
 [en]
-  title = "Clarity"
+  title = "Atanu's Blog"
   LanguageName = "English"
   weight = 1
 
-[pt]
-  title = "Claridade" # just for the sake of showing this is possible
-  LanguageName = "Português"
+[bn]
+  title = "অতনুর ব্লগ" # just for the sake of showing this is possible
+  LanguageName = "Bangla"
   weight = 2
 
   # tip: assign the default language the lowest Weight
